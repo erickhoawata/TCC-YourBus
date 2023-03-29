@@ -27,6 +27,17 @@ Neste sentido, as passagens virtuais que forem adquiridas via aplicativo – You
 <a href="https://github.com/ThiagoPrado0">Thiago Alexandre do Prado</a> (Technical Writer e BackEnd)<br>
 </li>
 
+**<h2>Tela Home:</h2>**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126245787/228663485-d0861ab0-5695-41b3-ab8b-ad580bc6393b.gif" width="770px" />
+</div>
+
+**<h2>Tela de Login/ Cadastro e Esqueci a Senha:</h2>**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126245787/228664470-596a03f8-1cf2-4a73-bf09-42fe443dfbb4.gif" width="770px" />
+</div>
+
+
 **<h2>Prints do Aplicativo:</h2>**
 <div align="center">
 <img src="https://user-images.githubusercontent.com/126245787/228653720-0c0eeb6c-8c3e-4847-b9ba-2a16dd11b128.png" width="770px" />
