@@ -37,6 +37,11 @@ Neste sentido, as passagens virtuais que forem adquiridas via aplicativo – You
 <img src="https://user-images.githubusercontent.com/126245787/228664470-596a03f8-1cf2-4a73-bf09-42fe443dfbb4.gif" width="770px" />
 </div>
 
+**<h2>Dashboard:</h2>**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126245787/228667703-d58d04b5-28ff-4313-aee9-c9c608ea2ac6.gif" width="770px" />
+</div>
+
 
 **<h2>Prints do Aplicativo:</h2>**
 <div align="center">
