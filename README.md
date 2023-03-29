@@ -26,6 +26,11 @@ Neste sentido, as passagens virtuais que forem adquiridas via aplicativo – You
 <li>
 <a href="https://github.com/ThiagoPrado0">Thiago Alexandre do Prado</a> (Technical Writer e BackEnd)<br>
 </li>
+
+**<h2>Prints do Aplicativo:</h2>**
+<div align="center">
+<img scr="https://user-images.githubusercontent.com/126245787/228653720-0c0eeb6c-8c3e-4847-b9ba-2a16dd11b128.png"/>
+</div>
   
 **<h2>Ferramentas de Desevolvimento:</h2>**
 <li>
