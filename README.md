@@ -29,7 +29,7 @@ Neste sentido, as passagens virtuais que forem adquiridas via aplicativo – You
 
 **<h2>Prints do Aplicativo:</h2>**
 <div align="center">
-<img scr="https://user-images.githubusercontent.com/126245787/228653720-0c0eeb6c-8c3e-4847-b9ba-2a16dd11b128.png"/>
+<img src="https://user-images.githubusercontent.com/126245787/228653720-0c0eeb6c-8c3e-4847-b9ba-2a16dd11b128.png" width="770px" />
 </div>
   
 **<h2>Ferramentas de Desevolvimento:</h2>**
