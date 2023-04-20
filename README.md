@@ -66,31 +66,19 @@ Neste sentido, as passagens virtuais que forem adquiridas via aplicativo – You
 </li>
   
 **<h2>⚙ Tecnologias BackEnd:</h2>**
-<li>
-<a href="https://nodejs.org/en">NodeJS<br>
-</li>
-<li>
-<a href="https://www.php.net/">PHP<br>
-</li>
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="trello" alt="trello"/>&nbsp; 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="trello" alt="trello"/>&nbsp;
+</div>
   
 **<h2>🖥 Tecnologias FrontEnd</h2>**
-<li>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML<br>
-</li>
-<li>
-<a href="https://pt.wikipedia.org/wiki/CSS3#:~:text=CSS3%20%C3%A9%20a%20terceira%20mais,web%20(p%C3%A1gina%20de%20internet).">CSS<br>
-</li>
-<li>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript<br>
-</li>
-<li>
-<a href="https://react.dev/">React<br>
-</li>
-<li>
-<a href="https://reactnative.dev/">ReactNative<br>
-</li>
-<li>
-<a href="https://getbootstrap.com/">Bootstrap<br>
-</li>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="trello" alt="trello"/>&nbsp; 
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="trello" alt="trello"/>&nbsp; 
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="trello" alt="trello"/>&nbsp; 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="trello" alt="trello"/>&nbsp;
+</div>
 
     
